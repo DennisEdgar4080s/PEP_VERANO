@@ -1,4 +1,4 @@
-# Gestión de Productos con Flask y SQLite
+# Gestión de Productos REDGAR con Flask y SQLite
 Esta aplicación web permite gestionar productos mediante un sistema basado en Flask y una base de datos SQLite. Los usuarios pueden agregar, editar y eliminar productos a través de una interfaz amigable.
 
 # Estructura del proyecto
